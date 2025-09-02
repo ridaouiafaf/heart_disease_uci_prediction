@@ -1,5 +1,5 @@
 # Heart Disease Prediction (ML)
-Hi! This is a mini-project where I explored building a classification model to diagnose whether a person is likely to have heart disease based on various health indicators.
+Hi! This is a mini-project where I explored classification techniques to diagnose whether a person is likely to have heart disease based on various health indicators.
 The 2nd project to help me gain hands-on experience with the **ML pipeline in healthcare** and overcome my fear of **statistical visualizations** step by step. The additional step here that's different than the diabetes project is that I tried other classification algorithms. 😊
 
 
