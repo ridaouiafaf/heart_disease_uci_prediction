@@ -15,19 +15,19 @@ The 2nd project to help me gain hands-on experience with the **ML pipeline in he
 
 - 303 rows, 14 columns
 - Features include:
-    age: Age in years
-    sex: Sex (1 = male, 0 = female)
-    cp: Chest pain type (4 values)
-    trestbps: Resting blood pressure (mm Hg)
-    chol: Serum cholesterol (mg/dl)
-    fbs: Fasting blood sugar > 120 mg/dl (1 = true, 0 = false)
-    restecg: Resting electrocardiographic results (values 0, 1, 2)
-    thalach: Maximum heart rate achieved
-    exang: Exercise-induced angina (1 = yes, 0 = no)
-    oldpeak: ST depression induced by exercise relative to rest
-    slope: Slope of the peak exercise ST segment
-    ca: Number of major vessels (0–3) colored by fluoroscopy
-    thal: Thalassemia (3 = normal, 6 = fixed defect, 7 = reversible defect)
+  -  age: Age in years
+  -  sex: Sex (1 = male, 0 = female)
+  -  cp: Chest pain type (4 values)
+  -  trestbps: Resting blood pressure (mm Hg)
+  -  chol: Serum cholesterol (mg/dl)
+  -  fbs: Fasting blood sugar > 120 mg/dl (1 = true, 0 = false)
+  -  restecg: Resting electrocardiographic results (values 0, 1, 2)
+  -  thalach: Maximum heart rate achieved
+  -  exang: Exercise-induced angina (1 = yes, 0 = no)
+  -  oldpeak: ST depression induced by exercise relative to rest
+  -  slope: Slope of the peak exercise ST segment
+  -  ca: Number of major vessels (0–3) colored by fluoroscopy
+  -  thal: Thalassemia (3 = normal, 6 = fixed defect, 7 = reversible defect)
 - Target variable: target (1 = Heart Disease, 0 = No Heart Disease)
 
 ## ML Pipeline Overview
