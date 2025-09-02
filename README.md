@@ -78,6 +78,6 @@ The 2nd project to help me gain hands-on experience with the **ML pipeline in he
 
 ## License
 
-- Dataset: Heart Disease UCI dataset, sourced from the UCI Machine Learning Repository
+- Dataset: [Heart Disease UCI dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset/data), sourced from the UCI Machine Learning Repository 
 . Licensed under CC BY 4.0.
 - Code: Released under the MIT License.
