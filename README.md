@@ -75,3 +75,9 @@ The 2nd project to help me gain hands-on experience with the **ML pipeline in he
 - Why some models (like Decision Trees) can underperform without tuning.
 - That visualization and evaluation are as important as model training itself.
 - Building confidence to experiment and learn by trial-and-error rather than always seeking ready-made answers.
+
+## License
+
+- Dataset: Heart Disease UCI dataset, sourced from the UCI Machine Learning Repository
+. Licensed under CC BY 4.0.
+- Code: Released under the MIT License.
